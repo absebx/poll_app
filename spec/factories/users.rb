@@ -1,8 +1,8 @@
 FactoryGirl.define do
   factory :user do
-    email "MyString"
-    name "MyString"
-    provider "MyString"
-    uid "MyString"
+    email "abner@abner.com"
+    name "Abner"
+    provider "asder"
+    uid "uuaaahhh"
   end
 end
